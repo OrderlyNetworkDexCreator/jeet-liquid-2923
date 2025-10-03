@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/JeetLiquidDex",
   "VITE_SEO_SITE_NAME": "jeet liquid",
   "VITE_SEO_SITE_DESCRIPTION": "providing liquidity to jeets",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/jeet-liquid-2923/",
+  "VITE_SEO_SITE_URL": "https://trade.jeetliquidity.io",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@JeetLiquidDex",
